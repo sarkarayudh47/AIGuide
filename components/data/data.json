@@ -4,7 +4,8 @@
     "question": "How are you?",
     "answers": ["Good", "Bad", "Horny", "Modi"],
     "correctAns": "Good",
-    "subject": "English"
+    "subject": "English",
+    "topic": "Grammer"
   },
   {
     "questionNo": "2",
@@ -36,7 +37,35 @@
   },
   {
     "questionNo": "5",
+    "question": "Math5",
+    "answers": ["op1", "op2", "op3", "op4"],
+    "correctAns": "op3",
+    "subject": "Math"
+  },
+  {
+    "questionNo": "5",
+    "question": "Math6",
+    "answers": ["op1", "op2", "op3", "op4"],
+    "correctAns": "op3",
+    "subject": "Math"
+  },
+  {
+    "questionNo": "6",
     "question": "Math2",
+    "answers": ["op1", "op2", "op3", "op4"],
+    "correctAns": "op3",
+    "subject": "Math"
+  },
+  {
+    "questionNo": "7",
+    "question": "Math3",
+    "answers": ["op1", "op2", "op3", "op4"],
+    "correctAns": "op3",
+    "subject": "Math"
+  },
+  {
+    "questionNo": "8",
+    "question": "Math4",
     "answers": ["op1", "op2", "op3", "op4"],
     "correctAns": "op3",
     "subject": "Math"
