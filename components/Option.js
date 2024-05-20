@@ -1,13 +1,7 @@
 export default function Question(props) {
-  const onChange = () => {
-    props.formik.handleChange;
-    props.handleChange(props.questionNo + ".answer");
-  };
 
-  console.log("Inside option");
-  console.log(props.formik?.values[props.questionNo]);
   return (
-    <div>
+    <div class="border border-black p-2">
       <li>
         <input
           type="radio"
