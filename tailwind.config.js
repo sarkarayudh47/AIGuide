@@ -5,6 +5,11 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  safelist: [
+    {
+      pattern: /col-span-/, // Regular expression to match all col-span classes
+    },
+  ],
   theme: {
     extend: {
       backgroundImage: {

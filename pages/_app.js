@@ -2,7 +2,7 @@ import Index from ".";
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
-  return <Index />;
+  return <Component {...pageProps} />
 }
 
 export default MyApp;
